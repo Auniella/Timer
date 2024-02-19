@@ -67,7 +67,6 @@ button {
     font-weight: 500;
     cursor: pointer;
     word-wrap: break-word;
-    color: #000;
 }
 
 #btn_start:active {
@@ -80,7 +79,8 @@ button {
 
 @media screen and (max-width: 490px) {
     #container {
-        width: 80%;
+        width: 85%;
+        padding: 0.7rem;
     }
 
     input {
