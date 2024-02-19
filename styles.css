@@ -67,6 +67,7 @@ button {
     font-weight: 500;
     cursor: pointer;
     word-wrap: break-word;
+    color: #000;
 }
 
 #btn_start:active {
